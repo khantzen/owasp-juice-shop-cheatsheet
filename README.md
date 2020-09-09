@@ -14,3 +14,7 @@ Script to unlock Customer feed back success
 ### Database dump
 
 Guided script to dump the database tables description
+
+### Log as admin 
+
+Use sql injection to steal admin credentials
